@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Free nitro for a year</title>
+   </head>
+   <img src="https://media.tenor.com/images/7c1983bda92081fdb7e1deb96faf0d2d/tenor.gif" alt="discord" width="150" height="150">
+        <style>
+        body {
+          background-image: url('https://i2.wp.com/cutewallpaper.org/21/wallpaper-gif/Razer-Chroma-RGB-Spectrum-Cycling-HD-Live-Wallpaper-GIF.gif');
+          background-repeat: no-repeat;
+          background-attachment: fixed;  
+          background-size: cover;
+        }
+        </style>
+        </head>
+        <body>
+    </style>
+    <h1 style="font-size:200%;"><p style="color:rgb(9, 255, 0);">304 i found nitro<img src="https://media1.tenor.com/images/1c613e802c6c54608f2ec66706281d7c/tenor.gif?itemid=17442716" alt="nitro image" width="45" height="40"></p>
+      <h1 style="font-size:160%;"></h1><p style="color:rgb(109, 255, 104);">Author discord:Ğreý ĦâŢ#6148</h1></p>
+    <p style="color:rgb(255, 255, 255);">If you want to get nitro for a year<img src="https://thumbs.gfycat.com/FatFittingBettong-max-1mb.gif" alt="nitro image" width="35" height="35"></p>
+      </head>
+      <body>
+        <a href="https://www.youtube.com/watch?v=a3Z7zEc7AXQ"><button type="button">FreeNitro🔅</button></a>
+        </style>
+        <div class="wrapper">
+          <div class="icon twitter">
+            <div class="tooltip">Twitter</div>
+            <span><i class="fab fa-twitter"></i></span>
+            <a href="https://twitter.com/PotatoTime3?ref_src=twsrc%5Etfw" class="twitter" data-show-count="false"><p style="font-size:80%;"><img src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="twitter" width="32" height="32"></p></a>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </div>
+          <div class="icon github">
+            <div class="tooltip">Github</div>
+            <span><i class="fab fa-github"></i></span>
+            <a href="https://github.com/Darn0912" class="github" data-show-count="false"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="30" height="30"></a>
+          </div>
+          <div class="icon youtube">
+            <div class="tooltip">Youtube</div>
+            <span><i class="fab fa-youtube"></i></span>
+            <a href="https://www.youtube.com/channel/UCDnXHgUb_OTLcP7xldoo3-g" class="youtube" data-show-count="false"><img src="https://cliply.co/wp-content/uploads/2019/04/371903520_SOCIAL_ICONS_YOUTUBE.png" alt="youtube" width="32" height="32"></a>
+        </div>
+        <div class="icon discord">
+          <div class="tooltip">Discord</div>
+          <span><i class="fab fa-discord"></i></span>
+          <a href="https://discord.gg/M2HMwf2GFQ" class="discord" data-show-count="false"><img src="https://cdn.discordapp.com/emojis/861535473880399882.gif?v=1" alt="discord" width="32" height="32"></a>
+      </div>
+
+<style>
+/*
+    Auther: Abdelrhman Said
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*:focus,
+*:active {
+  outline: none !important;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+  display: grid;
+  height: 100%;
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+  place-items: center;
+}
+
+.wrapper {
+  display: inline-flex;
+}
+
+.wrapper .icon {
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 50%;
+  padding: 15px;
+  margin: 10px;
+  width: 50px;
+  height: 50px;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.wrapper .tooltip {
+  position: absolute;
+  top: 0;
+  font-size: 14px;
+  background-color: #747474;
+  color: #747474;
+  padding: 5px 8px;
+  border-radius: 5px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.wrapper .tooltip::before {
+  position: absolute;
+  content: "";
+  height: 8px;
+  width: 8px;
+  background-color: #6e6e6e;
+  bottom: -3px;
+  left: 50%;
+  transform: translate(-50%) rotate(45deg);
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.wrapper .icon:hover .tooltip {
+  top: -45px;
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+
+.wrapper .icon:hover span,
+.wrapper .icon:hover .tooltip {
+  text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.1);
+}
+
+.wrapper .twitter:hover,
+.wrapper .twitter:hover .tooltip,
+.wrapper .twitter:hover .tooltip::before {
+  background-color: #46c1f6;
+  color: #ffffff;
+}
+
+.wrapper .github:hover,
+.wrapper .github:hover .tooltip,
+.wrapper .github:hover .tooltip::before {
+  background-color:#535353;
+  color: #ffffff;
+}
+
+.wrapper .youtube:hover,
+.wrapper .youtube:hover .tooltip,
+.wrapper .youtube:hover .tooltip::before {
+  background-color: #ff1100;
+  color: #ffffff;
+}
+
+.wrapper .discord:hover,
+.wrapper .discord:hover .tooltip,
+.wrapper .discord:hover .tooltip::before {
+  background-color: #5865F2;
+  color: #ffffff;
+}
+
+</style>
+    </body>
+</html>
